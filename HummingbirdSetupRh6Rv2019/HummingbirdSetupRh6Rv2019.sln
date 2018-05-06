@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HummingbirdSetupRh6Rv2019", "HummingbirdSetupRh6Rv2019\HummingbirdInstallation.vdproj", "{1A53C019-52DC-4A99-ADBF-FECE6836E8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A53C019-52DC-4A99-ADBF-FECE6836E8FC}.Debug|Default.ActiveCfg = Debug
+		{1A53C019-52DC-4A99-ADBF-FECE6836E8FC}.Debug|Default.Build.0 = Debug
+		{1A53C019-52DC-4A99-ADBF-FECE6836E8FC}.Release|Default.ActiveCfg = Release
+		{1A53C019-52DC-4A99-ADBF-FECE6836E8FC}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFED27E9-019A-46E5-B13D-D96E57B7A22E}
+	EndGlobalSection
+EndGlobal

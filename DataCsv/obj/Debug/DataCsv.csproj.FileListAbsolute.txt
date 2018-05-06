@@ -1,0 +1,19 @@
+C:\Users\Mario\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.dll
+D:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.dll
+D:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\DataCsv.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Data\DataAdapters\DataCsv\obj\Debug\WhiteFeet.DataCsv.pdb
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\bin\Debug\DataCsv.dll
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\bin\Debug\DataCsv.pdb
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\obj\Debug\DataCsv.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\obj\Debug\DataCsv.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\obj\Debug\DataCsv.dll
+C:\DataWork\Work\GitHub\hummingbird\DataCsv\obj\Debug\DataCsv.pdb

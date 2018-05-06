@@ -1,0 +1,8 @@
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\WhiteFeet.RevitUtility.License.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\WhiteFeet.RevitUtility.Restore.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\WhiteFeet.RevitUtility.Save.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\RevitUtility.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtility\obj\x64\Debug\WhiteFeet.RevitUtility.pdb

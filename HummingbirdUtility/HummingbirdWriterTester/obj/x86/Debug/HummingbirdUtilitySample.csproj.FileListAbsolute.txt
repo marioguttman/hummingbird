@@ -1,0 +1,23 @@
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\RevitModelBuilderUtilitySample.Menu.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.Properties.Resources.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtilitySample.exe
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtilitySample.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.exe
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\RevitModelBuilderUtilitySample.Menu.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdUtilitySample.Properties.Resources.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtilitySample.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtilitySample.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\HummingbirdUtilitySample.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\HummingbirdUtilitySample.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.DataCsv.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\obj\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\bin\Debug\HummingbirdUtility.dll
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\bin\Debug\HummingbirdUtility.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\bin\Debug\DataCsv.dll
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\bin\Debug\DataCsv.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.csproj.CopyComplete
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.dll
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdUtility\obj\Debug\HummingbirdUtility.csprojResolveAssemblyReference.cache

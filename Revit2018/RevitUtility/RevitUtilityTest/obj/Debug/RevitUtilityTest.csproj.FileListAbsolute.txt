@@ -1,0 +1,132 @@
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\bin\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\bin\Debug\WfUtilityCommonTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\obj\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\RevitUtilityTest\obj\Debug\WfUtilityCommonTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtility.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\RevitUtilityTest.SampleStart.resources
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitUtility\R2011\RevitUtilityTest\bin\Debug\WfRevitUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\bin\Debug\WfRevitUtilityTest.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\bin\Debug\WfRevitUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\bin\Debug\WfRevitUtility.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\WfRevitUtilityTest.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtilityTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2013\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\bin\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.SampleStart.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitUtility\RevitUtilityTest\obj\Debug\WhiteFeet.RevitUtilityTest.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\bin\Debug\RevitUtilityTest.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\bin\Debug\RevitUtilityTest.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.SampleStart.resources
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.GenerateResource.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitUtility\RevitUtilityTest\obj\Debug\RevitUtilityTest.pdb

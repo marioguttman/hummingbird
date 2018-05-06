@@ -1,0 +1,12 @@
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdWriterTester.Menu.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdWriterTester.Properties.Resources.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\HummingbirdWriterTester.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdWriterTester.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdWriterTester.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\HummingbirdWriterTester.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdWriterTester.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdUtilitySample\obj\x86\Debug\WhiteFeet.HummingbirdWriterTester.pdb

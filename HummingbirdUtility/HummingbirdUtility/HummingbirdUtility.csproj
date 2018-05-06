@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FC7BD4E0-D229-4770-90CF-C0B2D02FA474}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HummingbirdUtility</RootNamespace>
+    <AssemblyName>HummingbirdUtility</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="DataCsv">
+      <HintPath>..\..\DataCsv\bin\Debug\DataCsv.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GetHbReferencePoint.cs" />
+    <Compile Include="GetHbEllipseValues.cs" />
+    <Compile Include="HbRevitObjects\HbReferencePoint.cs" />
+    <Compile Include="HbRevitObjects\HbCurveArray.cs" />
+    <Compile Include="HbRevitObjects\HbCurveArrArray.cs" />
+    <Compile Include="HbRevitObjects\HbElementId.cs" />
+    <Compile Include="HbRevitObjects\HbReferenceArray.cs" />
+    <Compile Include="HbRevitObjects\HbReferenceArrayArray.cs" />
+    <Compile Include="GetHbValue.cs" />
+    <Compile Include="InputParser.cs" />
+    <Compile Include="GetHbXyzRow.cs" />
+    <Compile Include="SyntaxChecker.cs" />
+    <Compile Include="InputValue.cs" />
+    <Compile Include="HbInputItem.cs" />
+    <Compile Include="CsvReader.cs" />
+    <Compile Include="HbRevitObjects\HbItemListList.cs" />
+    <Compile Include="HbRevitObjects\HbItemList.cs" />
+    <Compile Include="ObjectBuilder.cs" />
+    <Compile Include="OutputItem.cs" />
+    <Compile Include="OutputValue.cs" />
+    <Compile Include="HbRevitObjects\HbArc.cs" />
+    <Compile Include="HbRevitObjects\HbEllipse.cs" />
+    <Compile Include="HbRevitObjects\HbHermiteSpline.cs" />
+    <Compile Include="HbRevitObjects\HbCurve.cs" />
+    <Compile Include="HbRevitObjects\HbLine.cs" />
+    <Compile Include="HbRevitObjects\HbNurbSpline.cs" />
+    <Compile Include="CsvWriter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HbRevitObjects\HbXYZ.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+    <Name>Hummingbird</Name>
+    <Assembly>Hummingbird\Program\RevitHummingbird.dll</Assembly>
+    <AddInId>93BC2D26-39A7-4AA0-A6BA-5387F8C31395</AddInId>
+    <FullClassName>RevitHummingbird.Application</FullClassName>
+    <VendorId>ADSK</VendorId>
+	<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+  </AddIn>
+  
+</RevitAddIns>

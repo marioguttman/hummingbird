@@ -1,0 +1,97 @@
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitAPI.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitAPIUI.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\UIFramework.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\AdWindows.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\UIFrameworkServices.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\ManagedMC3.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitAPIUI.xml
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\RevitAPI.xml
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\bin\Debug\en-US\AdWindows.resources.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\bin\Debug\WfRevitDocumentation.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\bin\Debug\WfRevitDocumentation.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\obj\Debug\WfRevitDocumentation.dll
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\obj\Debug\WfRevitDocumentation.pdb
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\obj\Debug\RevitDocumentation.Documents.resources
+C:\Documents and Settings\guttmanm\Work From Home\WhiteFeet Software\RevitDocumentation\2011\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\bin\Debug\WfRevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\bin\Debug\WfRevitDocumentation.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\WfRevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\WfRevitDocumentation.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\2012\RevitDocumentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\bin\Debug\WfRevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\bin\Debug\WfRevitDocumentation.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\WfRevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitDocumentation\R2012\RevitDocumentation\obj\Debug\WfRevitDocumentation.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code RAC2013\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+D:\DataWork\Work\WhiteFeet Software\Code - RAC2015 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2016 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2017 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.Documents.resources
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.dll
+C:\DataWork\Work\WhiteFeet Software\Code - RAC2018 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\Debug\WhiteFeet.RevitDocumentation.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.Documents.resources
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.Cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\bin\Debug\RevitDocumentation.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.Documents.resources
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.GenerateResource.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.dll
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.pdb
+C:\DataWork\Work\GitHub\hummingbird\Revit2018\RevitDocumentation\RevitDocumentation\obj\Debug\RevitDocumentation.csprojResolveAssemblyReference.cache

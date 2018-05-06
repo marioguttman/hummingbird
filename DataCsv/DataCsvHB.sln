@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCsv", "DataCsv.csproj", "{1456BAA2-3656-456F-9F1D-28ED490397CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1456BAA2-3656-456F-9F1D-28ED490397CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1456BAA2-3656-456F-9F1D-28ED490397CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1456BAA2-3656-456F-9F1D-28ED490397CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1456BAA2-3656-456F-9F1D-28ED490397CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C971680C-DC66-4672-BC15-5C0A7F4E1D65}
+	EndGlobalSection
+EndGlobal

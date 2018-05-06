@@ -1,0 +1,38 @@
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdReaderTester.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdReaderTester.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.DataCsv.dll
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.Menu.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.Properties.Resources.resources
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.exe
+C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.exe
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdReaderTester.exe
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdReaderTester.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdUtility.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.DataCsv.dll
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.HummingbirdUtility.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\WhiteFeet.DataCsv.pdb
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.Menu.resources
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.Properties.Resources.resources
+C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csproj.GenerateResource.Cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\HummingbirdReaderTester.exe
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\HummingbirdReaderTester.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\HummingbirdUtility.dll
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\DataCsv.dll
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\HummingbirdUtility.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\bin\Debug\DataCsv.pdb
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csprojResolveAssemblyReference.cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\WhiteFeet.HummingbirdReaderTester.Menu.resources
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.Properties.Resources.resources
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csproj.GenerateResource.cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csproj.CoreCompileInputs.cache
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.csproj.CopyComplete
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.exe
+C:\DataWork\Work\GitHub\hummingbird\HummingbirdUtility\HummingbirdReaderTester\obj\Debug\HummingbirdReaderTester.pdb

@@ -1,0 +1,14 @@
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\bin\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\bin\Debug\WfUtilityCommonTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\UtilityCommonTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\UtilityCommonTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\WfUtilityCommonTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\bin\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\bin\Debug\WfUtilityCommonTest.pdb
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\obj\Debug\UtilityCommonTest.SampleStart.resources
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\obj\Debug\UtilityCommonTest.csproj.GenerateResource.Cache
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\obj\Debug\WfUtilityCommonTest.dll
+C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\UtilityCommonTest\obj\Debug\WfUtilityCommonTest.pdb

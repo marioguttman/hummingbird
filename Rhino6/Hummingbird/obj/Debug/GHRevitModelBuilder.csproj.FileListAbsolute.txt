@@ -1,0 +1,14 @@
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\bin\WhiteFeet.GHRevitModelBuilder.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\bin\WhiteFeet.GHRevitModelBuilder.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\bin\WhiteFeet.RevitModelBuilderUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\bin\WhiteFeet.RevitModelBuilderUtility.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\obj\Debug\WhiteFeet.GHRevitModelBuilder.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\DataTreeFloor\obj\Debug\WhiteFeet.GHRevitModelBuilder.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\bin\WhiteFeet.RevitModelBuilderUtility.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\bin\WhiteFeet.RevitModelBuilderUtility.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\bin\Hummingbird.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\bin\Hummingbird.pdb
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\obj\Debug\Hummingbird.dll
+C:\Users\guttmanm\OfflineHome\WhiteFeet Software\Code GH\GHRevitModelBuilder\GHRevitModelBuilder\obj\Debug\Hummingbird.pdb

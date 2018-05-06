@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RevitUtility">
+</Property><Property Name="Solution File" Value="C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\RevitUtility.sln">
+</Property><Property Name="Date" Value="Thursday, July 14, 2011">
+</Property><Property Name="Time" Value="14:28:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="RevitUtility" Source="RevitUtility.csproj" Description="Project file successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\RevitUtility.csproj">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="RevitUtility.csproj.user" Description="Project user file successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\RevitUtility.csproj.user">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="ControlSetting.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\ControlSetting.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Restore.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Restore.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Restore.Designer.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Restore.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Save.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Save.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Save.Designer.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Save.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="VariableSetting.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\VariableSetting.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="UtilitySettings.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\UtilitySettings.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="UtilityStatic.cs" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\UtilityStatic.cs">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Restore.resx" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Restore.resx">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="Save.resx" Description="File successfully backed up as C:\Users\guttmanm\OfflineHome\WhiteFeet Software\RevitUtility\R2012\RevitUtility\Backup\Save.resx">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="RevitUtility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RevitUtility" Source="RevitUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RevitUtility" Source="RevitUtility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

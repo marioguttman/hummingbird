@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Command">
+    <Assembly>C:\DataWork\Work\GitHub\hummingbird\Revit2019\RevitModelBuilder\RevitModelBuilder\bin\Debug\RevitModelBuilder.dll</Assembly>
+    <AddInId>8209694B-6F88-4CC2-8A34-AF02B6D5591D</AddInId>
+    <FullClassName>RevitModelBuilder.Command</FullClassName>
+    <VendorId>ADSK</VendorId>
+	<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+    <Text>_Dev - Revit Model Builder</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  
+</RevitAddIns>
