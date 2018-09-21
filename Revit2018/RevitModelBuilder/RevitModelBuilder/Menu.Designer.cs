@@ -66,7 +66,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(166, 13);
             this.label7.TabIndex = 54;
-            this.label7.Text = "Version R2018 - Build 2018-04-06";
+            this.label7.Text = "Version R2018 - Build 2018-09-21";
             // 
             // buttonClose
             // 

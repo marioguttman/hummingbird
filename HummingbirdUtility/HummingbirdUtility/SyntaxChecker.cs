@@ -58,7 +58,7 @@ namespace HummingbirdUtility {
                             if (!(lastAction == "" || lastAction == "Add" || lastAction == "Set" || lastAction == "Modify")) returnValue = "'Set' must be at start or follow a 'Set', 'Add' or 'Modify' action.";
                             break;
                         case "Modify":
-                            if (!(lastAction == "Add" || lastAction == "Modify")) returnValue = "'Modify' must follow an 'Add' action or another 'Modify' action.";
+                            if (!(lastAction == "Add" || lastAction == "Set" || lastAction == "Modify")) returnValue = "'Modify' must follow an 'Add' action, a 'Set' action, or another 'Modify' action.";
                             break;
                         default:
                             MessageBox.Show("Program error: Unknown 'actionValue'.");

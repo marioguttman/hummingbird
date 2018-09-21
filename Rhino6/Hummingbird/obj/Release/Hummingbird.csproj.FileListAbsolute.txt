@@ -1,8 +1,0 @@
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\ResolveAssemblyReference.cache
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\WhiteFeet.GHRevitModelBuilder.Properties.Resources.resources
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\bin\Hummingbird.dll
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\bin\Hummingbird.pdb
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\Hummingbird.dll
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\Hummingbird.pdb
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\GenerateResource.read.1.tlog
-C:\Users\meadort\Dropbox\pw\RevitLink\GHRevitModelBuilder\Hummingbird\obj\Release\GenerateResource.write.1.tlog

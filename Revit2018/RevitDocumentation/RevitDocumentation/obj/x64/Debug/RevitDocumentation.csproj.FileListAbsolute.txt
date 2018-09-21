@@ -1,6 +1,0 @@
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.dll
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\bin\Debug\WhiteFeet.RevitDocumentation.pdb
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\x64\Debug\WhiteFeet.RevitDocumentation.Documents.resources
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\x64\Debug\RevitDocumentation.csproj.GenerateResource.Cache
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\x64\Debug\WhiteFeet.RevitDocumentation.dll
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitDocumentation\RevitDocumentation\obj\x64\Debug\WhiteFeet.RevitDocumentation.pdb

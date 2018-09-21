@@ -1,7 +1,0 @@
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\UsageUtilityCommon.SampleStart.resources
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\UsageUtilityCommon.csproj.GenerateResource.Cache
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\bin\Debug\WfUsageUtilityCommon.dll
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\bin\Debug\WfUsageUtilityCommon.pdb
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\WfUsageUtilityCommon.dll
-C:\Users\Mario\Work\WhiteFeet Software\UtilityCommon\SampleUse\obj\Debug\WfUsageUtilityCommon.pdb

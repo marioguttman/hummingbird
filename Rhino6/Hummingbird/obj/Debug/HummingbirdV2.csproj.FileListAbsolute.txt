@@ -1,4 +1,0 @@
-C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\Debug\HummingbirdV2.csprojResolveAssemblyReference.cache
-C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\Debug\Hummingbird.Properties.Resources.resources
-C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\Debug\HummingbirdV2.csproj.GenerateResource.Cache
-C:\Users\Mario\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\Debug\Hummingbird.pdb

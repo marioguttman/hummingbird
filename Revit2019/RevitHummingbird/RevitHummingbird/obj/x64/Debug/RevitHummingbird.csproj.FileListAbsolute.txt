@@ -1,4 +1,0 @@
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitHummingbird\RevitHummingbird\bin\x64\Debug\WhiteFeet.RevitHummingbird.dll
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitHummingbird\RevitHummingbird\bin\x64\Debug\WhiteFeet.RevitHummingbird.pdb
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitHummingbird\RevitHummingbird\obj\x64\Debug\WhiteFeet.RevitHummingbird.dll
-C:\Users\Mario\Work\WhiteFeet Software\Code - RAC2014 - WhiteFeet Tools\RevitHummingbird\RevitHummingbird\obj\x64\Debug\WhiteFeet.RevitHummingbird.pdb

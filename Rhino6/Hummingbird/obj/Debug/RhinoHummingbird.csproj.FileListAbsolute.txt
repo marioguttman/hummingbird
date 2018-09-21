@@ -1,7 +1,0 @@
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\bin\Hummingbird.dll
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\bin\Hummingbird.pdb
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\obj\Debug\Hummingbird.Properties.Resources.resources
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\obj\Debug\RhinoHummingbird.csproj.GenerateResource.Cache
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\obj\Debug\RhinoHummingbird.csproj.CoreCompileInputs.cache
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\obj\Debug\Hummingbird.dll
-C:\DataWork\Work\GitHub\hummingbird\Rhino6\RhinoHummingbird\obj\Debug\Hummingbird.pdb

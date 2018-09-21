@@ -1,6 +1,0 @@
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\bin\x64\Debug\Hummingbird.dll
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\bin\x64\Debug\Hummingbird.pdb
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\x64\Debug\Hummingbird.Properties.Resources.resources
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\x64\Debug\Hummingbird.csproj.GenerateResource.Cache
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\x64\Debug\Hummingbird.dll
-C:\DataWork\Work\WhiteFeet Software\Code - Hummingbird V2\HummingbirdGrasshopper\Hummingbird\obj\x64\Debug\Hummingbird.pdb
