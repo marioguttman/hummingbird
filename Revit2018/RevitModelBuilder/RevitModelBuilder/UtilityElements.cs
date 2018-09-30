@@ -2055,6 +2055,7 @@ namespace RevitModelBuilder {
             // Note: Not sure of historical reason for using a bounding box here.  Might be because wall height parameter might not be correct
             // depending on how wall is actually constructed?  Leaving this way for now.
             BoundingBoxXYZ boundingBoxXYZ = wall.get_BoundingBox(this.settings.ActiveView);
+            double baseWall = boundingBoxXYZ.Min.Z;
             double heightWall = boundingBoxXYZ.Max.Z - boundingBoxXYZ.Min.Z;
             LocationCurve locationCurve = (LocationCurve)wall.Location;
             Curve curve = locationCurve.Curve;
@@ -2062,10 +2063,10 @@ namespace RevitModelBuilder {
                 XYZ xyzPointU;
                 if (isGridU) {
                     xyzPointU = curve.Evaluate(secondaryOffset, true);
-                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, xyzPointU.Z + primaryOffset * heightWall);
+                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, baseWall + primaryOffset * heightWall);
                 } else {
                     xyzPointU = curve.Evaluate(primaryOffset, true);
-                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, xyzPointU.Z + secondaryOffset * heightWall);
+                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, baseWall + secondaryOffset * heightWall);
                 }                                       
                 return true;
                 } catch {

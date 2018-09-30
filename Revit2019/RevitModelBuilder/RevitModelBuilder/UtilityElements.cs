@@ -2051,6 +2051,7 @@ namespace RevitModelBuilder {
             // Note: Not sure of historical reason for using a bounding box here.  Might be because wall height parameter might not be correct
             // depending on how wall is actually constructed?  Leaving this way for now.
             BoundingBoxXYZ boundingBoxXYZ = wall.get_BoundingBox(this.settings.ActiveView);
+            double baseWall = boundingBoxXYZ.Min.Z;
             double heightWall = boundingBoxXYZ.Max.Z - boundingBoxXYZ.Min.Z;
             LocationCurve locationCurve = (LocationCurve)wall.Location;
             Curve curve = locationCurve.Curve;
@@ -2058,10 +2059,10 @@ namespace RevitModelBuilder {
                 XYZ xyzPointU;
                 if (isGridU) {
                     xyzPointU = curve.Evaluate(secondaryOffset, true);
-                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, xyzPointU.Z + primaryOffset * heightWall);
+                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, baseWall + primaryOffset * heightWall);
                 } else {
                     xyzPointU = curve.Evaluate(primaryOffset, true);
-                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, xyzPointU.Z + secondaryOffset * heightWall);
+                    xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, baseWall + secondaryOffset * heightWall);
                 }
                 return true;
             } catch {
@@ -2070,196 +2071,6 @@ namespace RevitModelBuilder {
             }
         }
 
-
-        //// ********************************************************** Mullions ***************************************************
-
-        //public void CurtainGridUAdd(Element element, double doubleValue0, double doubleValue1) {
-        //    GridMullionAdd(element, doubleValue0, doubleValue1, true, false);
-        //}
-        //public void CurtainGridVAdd(Element element, double doubleValue0, double doubleValue1) {
-        //    GridMullionAdd(element, doubleValue0, doubleValue1, false, false);
-        //}
-        //public void MullionUAdd(Element element, double doubleValue0, double doubleValue1) {
-        //    GridMullionAdd(element, doubleValue0, doubleValue1, true, true);
-        //}
-        //public void MullionVAdd(Element element, double doubleValue0, double doubleValue1) {
-        //    GridMullionAdd(element, doubleValue0, doubleValue1, false, true);
-        //}
-        //private void GridMullionAdd(Element element, double doubleValue0, double doubleValue1, bool isGridU, bool includeMullion) {
-        //    InnerErrorMessage = "";
-        //    InnerErrorSeverity = "";
-        //    LocalErrorMessage = "";
-        //    if (element == null) {
-        //        LocalErrorMessage = "Element was null";
-        //        return;
-        //    }
-
-        //    try {
-        //        Wall wall = (Wall)element;
-        //        if (wall == null) {
-        //            LocalErrorMessage = "Element was not a wall";
-        //            return;
-        //        }
-
-        //        if (this.mullionFamilyCurrent == "" || this.mullionTypeCurrent == "" || this.mullionFamilyCurrent == null || this.mullionTypeCurrent == null) {
-        //            LocalErrorMessage = "No Mullion Family-Type specified";
-        //            return;
-        //        }
-        //        MullionType  mullionType = null;
-        //        if (this.mullionTypes.ContainsKey(this.mullionFamilyCurrent)) {
-        //            if (this.mullionTypes[this.mullionFamilyCurrent].ContainsKey(this.mullionTypeCurrent)) mullionType = this.mullionTypes[this.mullionFamilyCurrent][this.mullionTypeCurrent];
-        //        }                                
-        //        if (mullionType == null) {
-        //            LocalErrorMessage = "Invalid Mullion Family-Type";
-        //            return;
-        //        }
-
-        //        double? primaryOffsetInput = doubleValue0;
-        //        if (primaryOffsetInput == null) {
-        //            LocalErrorMessage = "Null 'Primary Offset'value";
-        //            return;
-        //        }
-        //        double primaryOffset = primaryOffsetInput.Value;
-        //        if (primaryOffset <= 0 || primaryOffset >= 1) {
-        //            LocalErrorMessage = "'Primary Offset'value not between 0 and 1";
-        //            return;
-        //        }
-        //        bool oneSegmentOnly = true;
-        //        double secondaryOffset;
-        //        double? secondaryOffsetInput = doubleValue1;
-        //        if (secondaryOffsetInput == null) {
-        //            oneSegmentOnly = false;
-        //            secondaryOffset = 0;
-        //        }
-        //        else {
-        //            secondaryOffset = secondaryOffsetInput.Value;
-        //            if (secondaryOffset <= 0 || secondaryOffset >= 1) {
-        //                LocalErrorMessage = "'Secondary Offset'value not between 0 and 1";
-        //                return;
-        //            }
-        //        }
-
-        //        XYZ xyzInsertionPoint;
-        //        CurtainGrid curtainGrid = wall.CurtainGrid;
-        //        List<ElementId> elementIdsLines;
-        //        if (isGridU) {
-        //            if (!FindWallPoint(wall, secondaryOffset, primaryOffset, out xyzInsertionPoint)) {
-        //                LocalErrorMessage = "Error calculating insertion point from offsets";
-        //                return;
-        //            }
-        //            elementIdsLines = (List<ElementId>)curtainGrid.GetUGridLineIds();
-        //        }
-        //        else {
-        //            if (!FindWallPoint(wall, primaryOffset, secondaryOffset, out xyzInsertionPoint)) {
-        //                LocalErrorMessage = "Error calculating insertion point from offsets";
-        //                return;
-        //            }
-        //            elementIdsLines = (List<ElementId>)curtainGrid.GetVGridLineIds();
-        //        }
-                
-        //        CurtainGridLine curtainGridLine = null;
-        //        Curve curtainGridFullCurve = null;
-        //        Curve curtainGridSegment = null;
-        //        string transactionName;
-        //        if (includeMullion) transactionName = "Add Grid and Mullion";
-        //        else transactionName = "Add Grid";
-        //        using (Transaction transaction = new Transaction(this.documentDb)) {
-        //            if (TrapErrors) AddFailureHandler(transaction);
-        //            try {
-        //                transaction.Start(transactionName);
-
-        //                // Find or add the full grid line
-        //                bool curtainGridLineFound = false;
-        //                CurveArray existingSegments = null;
-        //                CurveArray skippedSegments = null;
-        //                foreach (ElementId elementIdLine in elementIdsLines) {
-        //                    curtainGridLine = (CurtainGridLine)this.documentDb.GetElement(elementIdLine);
-        //                    curtainGridFullCurve = curtainGridLine.FullCurve;
-        //                    XYZ startPoint = curtainGridFullCurve.GetEndPoint(0);
-        //                    if (isGridU) {
-        //                        if (Math.Abs(startPoint.Z - xyzInsertionPoint.Z) < 0.0000001) curtainGridLineFound = true;
-        //                    }
-        //                    else {
-        //                        if (Math.Abs(startPoint.X - xyzInsertionPoint.X) < 0.0000001) curtainGridLineFound = true;
-        //                    }
-        //                    if (curtainGridLineFound) break;
-        //                }
-        //                if (!curtainGridLineFound) {
-        //                    curtainGridLine = curtainGrid.AddGridLine(isGridU, xyzInsertionPoint, oneSegmentOnly);
-        //                    curtainGridFullCurve = curtainGridLine.FullCurve;
-        //                }
-
-        //                // Find or add the segment
-        //                existingSegments = curtainGridLine.ExistingSegmentCurves;
-        //                skippedSegments = curtainGridLine.SkippedSegmentCurves;
-        //                bool segmentFound = false;
-        //                if (oneSegmentOnly) {
-        //                    if (existingSegments != null) {
-        //                        foreach (Curve segment in existingSegments) {
-        //                            if (Math.Abs(segment.Distance(xyzInsertionPoint)) < 0.0000001) {
-        //                                curtainGridSegment = segment;
-        //                                segmentFound = true;
-        //                                break;
-        //                            }
-        //                        }
-        //                    }
-        //                    if (!segmentFound) {
-        //                        if (skippedSegments != null) {
-        //                            foreach (Curve segment in skippedSegments) {
-        //                                if (Math.Abs(segment.Distance(xyzInsertionPoint)) < 0.0000001) {
-        //                                    curtainGridLine.AddSegment(segment);
-        //                                    curtainGridSegment = segment;
-        //                                    segmentFound = true;
-        //                                    break;
-        //                                }
-        //                            }
-        //                        }
-        //                    }
-        //                }
-        //                else {
-        //                    curtainGridLine.AddAllSegments();
-        //                }
-
-        //                // Add the mullion(s)
-        //                if (includeMullion) {
-        //                    if (oneSegmentOnly && segmentFound) curtainGridLine.AddMullions(curtainGridSegment, mullionType, true);
-        //                    else curtainGridLine.AddMullions(curtainGridFullCurve, mullionType, false);
-        //                }
-
-        //                transaction.Commit();
-        //                if (TrapErrors && this.failureHandler.ErrorMessage != "") {
-        //                    InnerErrorMessage = this.failureHandler.ErrorMessage;
-        //                    InnerErrorSeverity = this.failureHandler.ErrorSeverity;
-        //                    LocalErrorMessage = "Internal error";
-        //                }
-        //            }
-        //            catch (Exception exception) {
-        //                LocalErrorMessage = exception.Message;
-        //                return;
-        //            }
-        //        }
-        //        return;
-        //    }
-        //    catch (Exception exception) {
-        //        LocalErrorMessage = exception.Message;
-        //        return;
-        //    }
-        //}
-        //private bool FindWallPoint(Wall wall, double uOffset, double vOffset, out XYZ xyzPoint) {
-        //    BoundingBoxXYZ boundingBoxXYZ = wall.get_BoundingBox(this.settings.ActiveView);            
-        //    LocationCurve locationCurve = (LocationCurve)wall.Location;
-        //    Curve curve = locationCurve.Curve;
-        //    XYZ xyzPointU = curve.Evaluate(uOffset, true);
-        //    try {
-        //        double heightWall = boundingBoxXYZ.Max.Z - boundingBoxXYZ.Min.Z;
-        //        xyzPoint = new XYZ(xyzPointU.X, xyzPointU.Y, xyzPointU.Z + vOffset * heightWall);
-        //        return true;
-        //    }
-        //    catch {
-        //        xyzPoint = null;
-        //        return false; 
-        //    }
-        //}
 
         // ******************************************** Public Functions used in Output CurveArray set ******************************** 
 

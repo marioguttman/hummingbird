@@ -14,7 +14,7 @@ namespace Hummingbird
 
         private string DEFAULT_FILE_NAME = "Walls.csv";  // "const" not allowed with GH
 
-        public Walls() : base("Walls", "Walls", "WhiteFeet ModelBuilder - Add Walls", "Extra", "Hummingbird") {            
+        public Walls() : base("Walls", "Walls", "Add Revit Walls", "Extra", "Hummingbird") {            
         }
 
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager) {
@@ -39,7 +39,7 @@ namespace Hummingbird
 
             // Set up Utility object and start process
             Utility utility = new Utility(DA);
-            utility.Print("Starting Wall By Points.");
+            utility.Print("Starting Walls.");
             List<string> instructionData = new List<string>();     
 
             // Get Inputs
@@ -88,6 +88,10 @@ namespace Hummingbird
                         GH_Convert.ToDouble(wallHeight, out revitWallHeight, GH_Conversion.Both);
                         csvWriter.SetWallHeight(revitWallHeight);
                     }
+
+//TODO There is no reason to use a tree here since we are splitting into lists and csvWriter.AddWall(list) adds a separate wall for each list item
+//Change so that it can be either?
+// Actually may be OK since curve loops require only one point per corner?  But what if we don't want that?
 
                     List<List<HbCurve>> curvesListListRevit = new List<List<HbCurve>>();
                     // Loop through the data tree of curves and process each one.

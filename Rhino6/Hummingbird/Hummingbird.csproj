@@ -88,6 +88,7 @@
     <Compile Include="Beams.cs" />
     <Compile Include="Input.cs" />
     <Compile Include="Levels.cs" />
+    <Compile Include="CurtGrids.cs" />
     <Compile Include="MassFamilies.cs" />
     <Compile Include="FilledRegions.cs" />
     <Compile Include="TopoSurface.cs" />
@@ -102,6 +103,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="TriangulatePoints.cs" />
+    <Compile Include="CurtWalls.cs" />
     <Compile Include="Walls.cs" />
     <Compile Include="LoftForms.cs" />
     <Compile Include="Floors.cs" />
@@ -140,8 +142,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Column.png" />
+    <None Include="Resources\Column.png" />
     <None Include="Resources\FilledRegions.png" />
+    <None Include="Resources\CurtWall.png" />
+    <None Include="Resources\CurtGrid.png" />
     <Content Include="Resources\Topo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

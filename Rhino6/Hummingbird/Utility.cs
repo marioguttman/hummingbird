@@ -477,7 +477,8 @@ namespace Hummingbird {
 
                 for (int i = 0; i < branches.Count; i++) {
 
-                    if (NestBranch)  curvesListRevit.Clear();
+                    //if (NestBranch)  curvesListRevit.Clear();
+                    if (NestBranch) curvesListRevit = new List<HbCurve>();
                     GH_Curve branch = branches[i];
                     Curve curveBranch = null;
                     Curve curveBranch2 = null;
@@ -610,7 +611,21 @@ namespace Hummingbird {
                 return true;
             }
             catch (Exception exception) {
-                Print("Exception in 'ReadDataTreeBranch': " + exception.Message);
+                Print("Exception in 'ReadDataTreeBranch' w/ curves: " + exception.Message);
+                return false;
+            }
+        }
+
+        public bool ReadDataTreeBranch(List<Grasshopper.Kernel.Types.GH_String> strings, ref List<List<string>> stringsListListRevit) {
+            try {
+                List<string> stringsList = new List<string>();
+                for (int i = 0; i < strings.Count; i++) {
+                    stringsList.Add(strings[i].ToString());                                        
+                }
+                stringsListListRevit.Add(stringsList);
+                return true;
+            } catch (Exception exception) {
+                Print("Exception in 'ReadDataTreeBranch' w/ strings: " + exception.Message);
                 return false;
             }
         }

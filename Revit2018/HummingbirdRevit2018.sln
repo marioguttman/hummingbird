@@ -15,6 +15,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitUtility", "RevitUtility\RevitUtility\RevitUtility.csproj", "{8DA56017-15EB-432B-837F-B182AA929249}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitUtilityTest", "RevitUtility\RevitUtilityTest\RevitUtilityTest.csproj", "{537CC907-9206-4381-A5C6-683B34B17BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FFB396EB-5600-4C4E-A2BB-D3959A59976C} = {FFB396EB-5600-4C4E-A2BB-D3959A59976C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
