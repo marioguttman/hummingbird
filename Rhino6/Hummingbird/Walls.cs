@@ -26,7 +26,10 @@ namespace Hummingbird
             pManager[3].Optional = true;
             pManager.AddTextParameter("RevitTypeName", "Type", "Revit Wall Type Name", GH_ParamAccess.item);                    // 4
             pManager[4].Optional = true;
-            pManager.AddNumberParameter("RevitWallHeight", "Height", "Set Revit Wall Height",GH_ParamAccess.item);              // 5
+            //pManager.AddNumberParameter("RevitWallHeight", "Height", "Set Revit Wall Height",GH_ParamAccess.item);              // 5
+            //pManager[5].Optional = true;
+
+            pManager.AddNumberParameter("RevitWallHeights", "Heights", "A List of Values for Revit Wall Height", GH_ParamAccess.list);                                   // 6
             pManager[5].Optional = true;
         }
 
@@ -62,8 +65,13 @@ namespace Hummingbird
             string typeName = null;                                  // Type is optional (no family, just type)
             utility.GetInput(4, ref typeName);
           
-            double wallHeight = 0;                                   // Wall Height is optional
-            utility.GetInput(5, ref wallHeight);
+            //double wallHeight = 0;                                   // Wall Height is optional
+            //utility.GetInput(5, ref wallHeight);
+
+            List<double> wallHeights = null;                            // Wall Height list optional
+            utility.GetInput(5, ref wallHeights);
+            int iMaxCountwallHeights = 0;
+            if (wallHeights != null) iMaxCountwallHeights = wallHeights.Count;
 
             if (write) {
                 try {
@@ -82,20 +90,23 @@ namespace Hummingbird
                         csvWriter.SetWallType(typeName);
                     }
 
-                    //Set Wall Height
-                    double revitWallHeight = 10.0;
-                    if (wallHeight != 0) {
-                        GH_Convert.ToDouble(wallHeight, out revitWallHeight, GH_Conversion.Both);
-                        csvWriter.SetWallHeight(revitWallHeight);
-                    }
+                    ////Set Wall Height
+                    //double revitWallHeight = 10.0;
+                    //if (wallHeight != 0) {
+                    //    GH_Convert.ToDouble(wallHeight, out revitWallHeight, GH_Conversion.Both);
+                    //    csvWriter.SetWallHeight(revitWallHeight);
+                    //}
 
 //TODO There is no reason to use a tree here since we are splitting into lists and csvWriter.AddWall(list) adds a separate wall for each list item
 //Change so that it can be either?
 // Actually may be OK since curve loops require only one point per corner?  But what if we don't want that?
 
+                    double lastWallHeigthtValue = 0;
+
                     List<List<HbCurve>> curvesListListRevit = new List<List<HbCurve>>();
                     // Loop through the data tree of curves and process each one.
                     for (int i = 0; i < dataTree.Branches.Count; i++) {
+
                         if (!utility.ReadDataTreeBranch(dataTree.Branches[i], ref curvesListListRevit)) {
                             utility.Print("ReadDataTreeBranch() failed");
                             utility.WriteOut();
@@ -103,11 +114,22 @@ namespace Hummingbird
                         }
                     }
 
-                    for (int j = 0; j < curvesListListRevit.Count; j++) {
-                        List<HbCurve> curvesListRevit = curvesListListRevit[j];
+                    for (int i = 0; i < curvesListListRevit.Count; i++) {
+
+                        // Set Wall Height if necessary
+                        if (i < iMaxCountwallHeights) {
+                            if (Math.Abs(lastWallHeigthtValue - wallHeights[i]) > 0.00000001) {
+                                csvWriter.SetWallHeight(wallHeights[i]);
+                                instructionData.Add("Set Wall Height: " + wallHeights[i].ToString());
+                                lastWallHeigthtValue = wallHeights[i];
+                            }
+                        }
+
+                        List<HbCurve> curvesListRevit = curvesListListRevit[i];
                         csvWriter.AddWall(curvesListRevit);
                         instructionData.Add("Add Wall:");
                     }
+
                     csvWriter.WriteFile();
                     utility.Print("Add Wall completed successfully.");
                 }
