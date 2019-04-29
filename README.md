@@ -1,6 +1,9 @@
 # hummingbird
 Tools for linking Rhino-Grasshopper with Revit.
-Updated 2018-04-05 Mario Guttman
+Updated 2019-04-29 Mario Guttman
+
+TO GET COMPILED INSTALLATION FILE AND SAMPLE DATA:
+Use the content of the "_Downloads" folder.
 
 DISCLAIMER:
 

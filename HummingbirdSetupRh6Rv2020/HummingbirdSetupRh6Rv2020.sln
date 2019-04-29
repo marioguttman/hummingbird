@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HummingbirdSetupRh6Rv2020", "HummingbirdSetupRh6Rv2020\HummingbirdInstallation.vdproj", "{E8A70FA7-0FE7-444F-84D2-44F29B246987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+		x64|Default = x64|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.Debug|Default.ActiveCfg = Debug
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.Debug|Default.Build.0 = Debug
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.Release|Default.ActiveCfg = Release
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.Release|Default.Build.0 = Release
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.x64|Default.ActiveCfg = x64
+		{E8A70FA7-0FE7-444F-84D2-44F29B246987}.x64|Default.Build.0 = x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354C2813-F144-49B8-920B-36FDE8D21913}
+	EndGlobalSection
+EndGlobal
